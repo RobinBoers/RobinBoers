@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm webdesigner, programmer, YouTuber, and teenager, and my hobbies are programming, video-editing, handball, and drawing.<br>
+I really enjoy making websites and webapps, and I love to thinker with Linux.
+
+🏠 [geheimesite.nl](http://geheimesite.nl)<br>
+🌱 I'm currently learning about Linux<br>
+💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)<br>
+⚡ [code.geheimesite.nl](http://code.geheimesite.nl)<br>
+
 <!--
 **RobinBoers/RobinBoers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
