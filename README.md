@@ -3,8 +3,10 @@
 I'm webdesigner, programmer, YouTuber, and teenager, and my hobbies are programming, video-editing, handball, and drawing.<br>
 I really enjoy making websites and webapps, and I love to thinker with Linux.
 
+Current project: [FramboxDesktop](https://www.github.com/RobinBoers/FramboxDesktop)
+
 🏠 [geheimesite.nl](http://geheimesite.nl)<br>
-🌱 I'm currently learning about Linux<br>
+🌱 I'm currently learning about Linux
 💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)<br>
 ⚡ [code.geheimesite.nl](http://code.geheimesite.nl)<br>
 
