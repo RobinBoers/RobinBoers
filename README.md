@@ -6,7 +6,7 @@ I really enjoy making websites and webapps, and I love to thinker with Linux.
 Current project: [TermiTools](https://www.github.com/RobinBoers/termitools)
 
 🏠 [geheimesite.nl](http://geheimesite.nl)<br>
-🌱 I'm currently learning about Linux
+🌱 I'm currently learning about Linux  
 💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)<br>
 ⚡ [code.geheimesite.nl](http://code.geheimesite.nl)<br>
 
