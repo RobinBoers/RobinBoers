@@ -5,11 +5,13 @@ I really enjoy making websites and webapps, and I love to thinker with Linux.
 
 Current project: [TermiTools](https://www.github.com/RobinBoers/termitools)
 
-🏠 [geheimesite.nl](http://geheimesite.nl)<br>
+🏠 [geheimesite.nl](http://geheimesite.nl)  
 🌱 I'm currently learning about Linux  
-💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)<br>
+💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)  
+⚡ [code.geheimesite.nl](http://code.geheimesite.nl)  
+
 🔥 [Reddit (Robijntje22)](https://www.reddit.com/user/Robijntje22)  
-⚡ [code.geheimesite.nl](http://code.geheimesite.nl)<br>
+▶️ [YouTube channel](https://www.youtube.com/channel/UCx4li1iMygs5KtqgcU5KGRw)  
 
 <!--
 **RobinBoers/RobinBoers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
