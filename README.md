@@ -8,6 +8,7 @@ Current project: [TermiTools](https://www.github.com/RobinBoers/termitools)
 🏠 [geheimesite.nl](http://geheimesite.nl)<br>
 🌱 I'm currently learning about Linux  
 💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)<br>
+🔥 [Reddit (Robijntje22)](https://www.reddit.com/user/Robijntje22)  
 ⚡ [code.geheimesite.nl](http://code.geheimesite.nl)<br>
 
 <!--
