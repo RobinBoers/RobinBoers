@@ -3,7 +3,7 @@
 I'm webdesigner, programmer, YouTuber, and teenager, and my hobbies are programming, video-editing, handball, and drawing.<br>
 I really enjoy making websites and webapps, and I love to thinker with Linux.
 
-Current project: [TermiTools](https://www.github.com/RobinBoers/termitools)
+Current project: [ThinkChat](https://www.github.com/RobinBoers/thinkchat)
 
 🏠 [geheimesite.nl](http://geheimesite.nl)  
 🌱 I'm currently learning about Linux  
