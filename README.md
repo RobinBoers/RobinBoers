@@ -6,7 +6,7 @@ I really enjoy making websites and webapps, and I love to thinker with Linux.
 Current project: [ThinkChat](https://www.github.com/RobinBoers/thinkchat)
 
 🏠 [geheimesite.nl](http://geheimesite.nl)  
-🌱 I'm currently learning about Linux  
+🌱 I'm currently learning about Node.js and React  
 💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)  
 ⚡ [code.geheimesite.nl](http://code.geheimesite.nl)  
 
