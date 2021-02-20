@@ -3,7 +3,7 @@
 I'm webdesigner, programmer, YouTuber, and teenager, and my hobbies are programming, video-editing, handball, and drawing.<br>
 I really enjoy making websites and webapps, and I love to thinker with Linux.
 
-Current project: [ThinkChat](https://www.github.com/RobinBoers/thinkchat)
+Current project: [Sticks and Rocks](https://robijntje.itch.io/sticks-and-rocks)
 
 🏠 [geheimesite.nl](http://geheimesite.nl)  
 🌱 I'm currently learning about Node.js and React  
@@ -11,6 +11,7 @@ Current project: [ThinkChat](https://www.github.com/RobinBoers/thinkchat)
 ⚡ [code.geheimesite.nl](http://code.geheimesite.nl)  
 
 🔥 [Reddit (Robijntje22)](https://www.reddit.com/user/Robijntje22)  
+🎮 [itch.io (Rob1jntje)](https://robijntje.itch.io)  
 ▶️ [YouTube channel](https://www.youtube.com/channel/UCx4li1iMygs5KtqgcU5KGRw)  
 
 <!--
