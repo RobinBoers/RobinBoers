@@ -3,7 +3,7 @@
 I'm webdesigner, programmer, YouTuber, and teenager, and my hobbies are programming, video-editing, handball, and drawing.<br>
 I really enjoy making websites and webapps, and I love to thinker with Linux.
 
-Current project: [Sticks and Rocks](https://robijntje.itch.io/sticks-and-rocks)
+Current project: [CutieTanks](https://robijntje.itch.io/cutie-tanks)
 
 🏠 [geheimesite.nl](http://geheimesite.nl)  
 🌱 I'm currently learning about Node.js and Phaser 3  
