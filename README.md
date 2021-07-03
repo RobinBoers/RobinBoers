@@ -6,7 +6,7 @@ I really enjoy making websites and webapps, and I love to thinker with Linux.
 Current project: [CutieTanks](https://robijntje.itch.io/cutie-tanks)
 
 🏠 [geheimesite.nl](http://geheimesite.nl)  
-🌱 I'm currently learning about Node.js and Phaser 3  
+🌱 I'm currently learning about React and Three.js  
 💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)  
 ⚡ [code.geheimesite.nl](http://code.geheimesite.nl)  
 
