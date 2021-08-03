@@ -14,6 +14,8 @@ Current project: Coming soon!
 🎮 [itch.io (Rob1jntje)](https://robijntje.itch.io)  
 ▶️ [YouTube channel](https://www.youtube.com/channel/UCx4li1iMygs5KtqgcU5KGRw)  
 
+:octocat: [Stalk Me!](https://gitstalk.netlify.app/RobinBoers)
+
 <!--
 **RobinBoers/RobinBoers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
