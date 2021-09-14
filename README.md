@@ -3,10 +3,10 @@
 I'm webdesigner, programmer, YouTuber, and teenager, and my hobbies are programming, video-editing, handball, and drawing.<br>
 I really enjoy making websites and webapps, and I love to thinker with Linux.
 
-Current project: Coming soon!
+Current project: [spaceshooter.js](https://github.com/RobinBoers/spaceshooter.js)
 
 🏠 [geheimesite.nl](http://geheimesite.nl)  
-🌱 I'm currently learning about Elixir
+🌱 I'm currently learning about Elixir  
 💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)  
 ⚡ [code.geheimesite.nl](http://code.geheimesite.nl)  
 
