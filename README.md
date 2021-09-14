@@ -6,7 +6,7 @@ I really enjoy making websites and webapps, and I love to thinker with Linux.
 Current project: Coming soon!
 
 🏠 [geheimesite.nl](http://geheimesite.nl)  
-🌱 I'm currently learning about React and Three.js  
+🌱 I'm currently learning about Elixir
 💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)  
 ⚡ [code.geheimesite.nl](http://code.geheimesite.nl)  
 
