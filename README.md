@@ -3,8 +3,6 @@
 I'm webdesigner, programmer, YouTuber, and teenager, and my hobbies are programming, video-editing, handball, and drawing.<br>
 I really enjoy making websites and webapps, and I love to thinker with Linux.
 
-Current project: Nindo2 (coming soon)
-
 🏠 [geheimesite.nl](http://geheimesite.nl)  
 🌱 I'm currently learning about Elixir   
 💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)  
@@ -15,6 +13,8 @@ Current project: Nindo2 (coming soon)
 ▶️ [YouTube channel](https://www.youtube.com/channel/UCx4li1iMygs5KtqgcU5KGRw)  
 
 :octocat: [Stalk Me!](https://gitstalk.netlify.app/RobinBoers)
+
+![stats](https://github-readme-stats.vercel.app/api?username=RobinBoers&count_private=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0D1117&hide_title=true)
 
 <!--
 **RobinBoers/RobinBoers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
