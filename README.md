@@ -4,7 +4,7 @@ I'm webdesigner, programmer, YouTuber, and teenager, and my hobbies are programm
 I really enjoy making websites and webapps, and I love to thinker with Linux.
 
 🏠 [geheimesite.nl](http://geheimesite.nl)  
-🌱 I'm currently learning about Elixir   
+🌱 I'm currently learning [Elixir](https://elixir-lang.org) and [Phoenix LiveView](https://www.phoenixframework.org)   
 💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)  
 ⚡ [code.geheimesite.nl](http://code.geheimesite.nl)  
 
