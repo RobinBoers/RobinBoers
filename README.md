@@ -14,7 +14,7 @@ I really enjoy making websites and webapps, and I love to thinker with Linux.
 
 :octocat: [Stalk Me!](https://gitstalk.netlify.app/RobinBoers)
 
-![stats](https://github-readme-stats.vercel.app/api?username=RobinBoers&count_private=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0D1117&hide_title=true)
+![stats](https://github-readme-stats.vercel.app/api?username=RobinBoers&count_private=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0D1117&hide_title=true&hide_border=true&show_icons=true)
 
 <!--
 **RobinBoers/RobinBoers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
