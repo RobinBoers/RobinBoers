@@ -8,7 +8,7 @@ I really enjoy making websites and webapps, and I love to thinker with Linux.
 💬 [robin@geheimesite.nl](mailto:robin@geheimesite.nl)  
 ⚡ [blog.geheimesite.nl](http://blog.geheimesite.nl)  
 
-![stats](https://github-readme-stats.vercel.app/api?username=RobinBoers&count_private=true&hide_title=true&hide_border=true&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=RobinBoers&count_private=true&hide_title=true&hide_border=false&show_icons=true)
 
 <!--
 **RobinBoers/RobinBoers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
