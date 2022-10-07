@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm webdesigner, programmer, YouTuber, and teenager, and my hobbies are programming, video-editing, handball, and drawing.<br>
-I really enjoy making websites and webapps, and I love to thinker with Linux.
+I'm webdesigner, teenager  and nerd living in the Netherlands. My hobbies are programming, video-editing, handball, and drawing.  
+I'm 15 years old and I currently work at Qdentity. I really enjoy making websites and webapps,   
+and I love to thinker with Linux.
 
 🏠 [geheimesite.nl](http://geheimesite.nl)  
 🌱 I'm currently learning [Elixir](https://elixir-lang.org) and [Phoenix LiveView](https://www.phoenixframework.org)   
