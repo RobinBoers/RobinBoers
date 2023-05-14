@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm webdesigner, teenager and nerd living in the Netherlands. My hobbies are programming and handball.  
-I'm 15 years old and I currently work at Qdentity. I enjoy building websites and  
+I'm 16[^1] years old and I currently work at Qdentity. I enjoy building websites and  
 apps in my free time, and I love to thinker with Linux.
 
 Btw, I have [my own Gitea instance](https://git.geheimesite.nl), which hosts some repos that are not on GitHub ;)
@@ -14,6 +14,8 @@ Btw, I have [my own Gitea instance](https://git.geheimesite.nl), which hosts som
 🔥 [git.geheimesite.nl](https://git.geheimesite.nl)  
 
 ![stats](https://github-readme-stats.vercel.app/api?username=RobinBoers&count_private=true&hide_title=true&hide_border=false&show_icons=true)
+
+[^1]: I tend to forget to update this. I was born in January 2007 :)
 
 <!--
 **RobinBoers/RobinBoers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
