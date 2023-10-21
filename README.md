@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-I'm webdesigner, teenager and nerd living in the Netherlands. My hobbies are programming and handball.  
-I'm 16[^1] years old and I currently work at Qdentity. I enjoy building websites and  
-apps in my free time, and I love to thinker with Linux.
+I'm a random teenager from the Netherlands, who enjoys building software for fun.
+I'm 16[^1] years old and I currently work at Qdentity. I enjoy building websites and
+apps in my free time, and I love to play around with Linux.
 
-Btw, I have [my own Gitea instance](https://git.geheimesite.nl), which hosts some repos that are not on GitHub ;)
+Nowaways, this account mostly mirrors repos from [my own git server](http://git.dupunkto.org/~robin).
+I also have a [Codeberg profile](https://codeberg.org/RobinBoers).
 
 🏠 [geheimesite.nl](http://geheimesite.nl)  
-🌱 I'm currently learning [Rust](https://elixir-lang.org) and [developing a language](https://git.geheimesite.nl/grape-lang) :)  
-✉️ [hello@geheimesite.nl](mailto:robin@geheimesite.nl)  
-💬 [@robinboers:geheimesite.nl](https://matrix.to/#/@robinboers:geheimesite.nl)  
+🌱 I'm currently [developing a language](https://git.geheimesite.nl/grape-lang) :)  
+✉️ [hello@geheimesite.nl](mailto:hello+github@geheimesite.nl)  
+💬 [@robin:dupunkto.org](https://matrix.to/#/@robin:dupunkto.org)  
 ⚡ [blog.geheimesite.nl](http://blog.geheimesite.nl)  
 🔥 [git.geheimesite.nl](https://git.geheimesite.nl)  
 
