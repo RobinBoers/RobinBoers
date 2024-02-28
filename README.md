@@ -4,15 +4,14 @@ I'm a random teenager from the Netherlands, who enjoys building software for fun
 I'm 16[^1] years old and I currently work at Qdentity. I enjoy building websites and
 apps in my free time, and I love to play around with Linux.
 
-Nowaways, this account mostly mirrors repos from [my own git server](http://git.dupunkto.org/~robin).
+Nowaways, this account mostly mirrors repos from [my own git server](https://git.dupunkto.org).
 I also have a [Codeberg profile](https://codeberg.org/RobinBoers).
+ 
 
-🏠 [geheimesite.nl](http://geheimesite.nl)  
-🌱 I'm currently [developing a language](https://git.geheimesite.nl/grape-lang) :)  
-✉️ [hello@geheimesite.nl](mailto:hello+github@geheimesite.nl)  
-💬 [@robin:dupunkto.org](https://matrix.to/#/@robin:dupunkto.org)  
-⚡ [blog.geheimesite.nl](http://blog.geheimesite.nl)  
-🔥 [git.geheimesite.nl](https://git.geheimesite.nl)  
+🏠 [roblog.nl](https://roblog.nl)
+🌱 I'm currently [developing a language](https://git.dupunkto.org/grape-lang) :)  
+✉️ [axcelott@roblog.nl](mailto:hello+github@geheimesite.nl)     
+🔥 [dupunkto.org](https://dupunkto.org)  
 
 ![stats](https://github-readme-stats.vercel.app/api?username=RobinBoers&count_private=true&hide_title=true&hide_border=false&show_icons=true)
 
