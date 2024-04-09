@@ -1,33 +1,13 @@
-### Hi there 👋
+Hi, I’m Robin (he/him), also known as *axcelott* online. I'm a random teenager from the Netherlands. I build open-source things related to the Web and Linux (or BSD), which I, uhm... rant about on my [personal website](https://roblog.nl). I also maintain my own tilde, named [{du}punkto](https://dupunkto.org). 
 
-I'm a random teenager from the Netherlands, who enjoys building software for fun.
-I'm 16[^1] years old and I currently work at Qdentity. I enjoy building websites and
-apps in my free time, and I love to play around with Linux.
+Currently, I'm:
 
-Nowaways, this account mostly mirrors repos from [my own git server](https://git.dupunkto.org).
-I also have a [Codeberg profile](https://codeberg.org/RobinBoers).
+🌱 Trying to [develop a language](https://git.dupunkto.org/grape-lang) (still a WorkInProgress™)  
+🔥 Working on an [easier](https://gilest.org/indie-easy.html) [IndieWeb](https://indieweb.org) publishing platform.
+
+This GitHub account mostly mirrors repos from [my own Gitolite server](https://git.dupunkto.org), hosted over at {du}punkto.  
+I also mirror these repos to my [Codeberg profile](https://codeberg.org/RobinBoers).
  
+You can also reach me via email. I love a good conversation, so don’t hesitate to shoot me an email, I’ll always reply.
 
-🏠 [roblog.nl](https://roblog.nl)  
-🌱 I'm currently [developing a language](https://git.dupunkto.org/grape-lang) :)  
-✉️ [axcelott@roblog.nl](mailto:hello+github@geheimesite.nl)     
-🔥 [dupunkto.org](https://dupunkto.org)  
-
-![stats](https://github-readme-stats.vercel.app/api?username=RobinBoers&count_private=true&hide_title=true&hide_border=false&show_icons=true)
-
-[^1]: I tend to forget to update this. I was born in January 2007 :)
-
-<!--
-**RobinBoers/RobinBoers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    printf "%s@%s.%s\n" axcelott roblog nl 
