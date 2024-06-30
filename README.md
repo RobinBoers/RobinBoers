@@ -2,7 +2,7 @@ Hi, I’m Robin (he/him), also known as *axcelott* online. I'm a random teenager
 
 Currently, I'm:
 
-🌱 Trying to [develop a language](https://git.dupunkto.org/grape-lang) (still a WorkInProgress™)  
+🌱 Trying to [develop a language](https://git.dupunkto.org/axcelott/signo) (still a WorkInProgress™)  
 🔥 Working on an [easier](https://gilest.org/indie-easy.html) [IndieWeb](https://indieweb.org) publishing platform.
 
 This GitHub account mostly mirrors repos from [my own Gitolite server](https://git.dupunkto.org), hosted over at {du}punkto. I also mirror these repos to my [Codeberg profile](https://codeberg.org/RobinBoers).
