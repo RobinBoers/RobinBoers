@@ -3,7 +3,7 @@ Hi, I’m Robin (he/him), also known as **axcelott** online. I'm a random teenag
 Currently, I'm:
 
 🌱 Trying to [develop a language](https://git.dupunkto.org/axcelott/signo) (still a WorkInProgress™)  
-🔥 Working on [the best CMS in the multiverse](https://git.dupunkto.org/axcelott/pebble).
+🔥 Working on [the best CMS in the multiverse](https://git.dupunkto.org/scttr/pubb).
 
 <!-- 🔥 Working on an [easier](https://gilest.org/indie-easy.html) [IndieWeb](https://indieweb.org) [publishing platform](https://git.dupunkto.org/dupunkto/untitled). -->
 
